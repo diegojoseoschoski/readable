@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.top-buffer {
+  margin-top: 60px;
+}
+.centered {
+  display: block !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+.top-5 {
+  margin-top: 5px;
+}
+
+.navbar-nav span[role=button] {
+  padding: 15px;
+  display: inline-block;
+  line-height: 20px;
+}
+
+.mg-l-20 {
+  margin-left: 20px !important;
+}
+
+.navbar {
+  padding: 0px !important;
+}
+
+div .well {
+  background-color: transparent !important;
+  border: none;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+
+.border-1 {
+  border-top: 1px solid #eee !important;
+}
+
+html {
+  font-size: 100%;
+}
+
+.btn-toolbar {
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+.form-control {
+  padding: 5px !important;
+}
+
+.user_name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.navbar .container:before,
+.navbar .container:after {
+  content: none !important;
+}
